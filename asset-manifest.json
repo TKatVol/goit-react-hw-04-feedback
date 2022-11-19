@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TKatVol.github.io/goit-react-hw-04-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/TKatVol.github.io/goit-react-hw-04-feedback/static/js/main.1a767d11.js",
+    "index.html": "/TKatVol.github.io/goit-react-hw-04-feedback/index.html",
+    "main.7acaea2f.css.map": "/TKatVol.github.io/goit-react-hw-04-feedback/static/css/main.7acaea2f.css.map",
+    "main.1a767d11.js.map": "/TKatVol.github.io/goit-react-hw-04-feedback/static/js/main.1a767d11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.1a767d11.js"
+  ]
+}
